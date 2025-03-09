@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning C , Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - You Can Mail Me at - ky8050989@gmail.com , please don't mind if there is delay in response.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Just Trying to Keep Learning new things
 
 <!---
 yadavkapil23/yadavkapil23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
