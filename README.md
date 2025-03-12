@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yadavkapil23
+- 👋 Hi, I’m Kapil
 - 👀 I’m interested in Exploring the latest advancements in Technology.
 - 🌱 I’m currently learning C , Python.
 - 💞️ I’m looking to collaborate on ...
