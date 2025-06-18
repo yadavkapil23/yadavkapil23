@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kapil
 - 👀 I’m interested in Exploring the latest advancements in Technology.
-- 🌱 I’m currently learning AI
+- 🌱 I’m currently learning AI and DevOps
 - 📫 How to reach me - You Can Mail Me at - ky8050989@gmail.com , please don't mind if there is delay in response.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Just Trying to Keep Learning new things
