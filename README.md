@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kapil</h1>
 <h3 align="center">
   <a href="https://github.com/yadavkapil23">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76A05&center=true&vCenter=true&width=450&lines=AI+%26+DevOps+Enthusiast;Open+Source+Contributor;LLM+Tinkerer;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76A05&center=true&vCenter=true&width=450&lines=AI+%26+DevOps+Enthusiast;Open+Source+Contributor;LLM+Tinkerer;Backend+Developer" alt="Typing SVG" />
   </a>
 </h3>
 
