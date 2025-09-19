@@ -17,7 +17,6 @@
 - 🌱 Learning **LangChain**, **LLMs**, **DevOps** and **Backend Development**
 - 🛠️ I love building real-world projects using **FastAPI**, **Docker**, and **LLM frameworks**
 - 💬 Ask me about anything related to **LLMs**, **LangChain**, or **FastAPI**
-- 📫 Reach me: [ky8050989@gmail.com](mailto:ky8050989@gmail.com)
 - 🧊 Fun Fact: I read changelogs like newsletters 😅
 
 ---
