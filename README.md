@@ -13,7 +13,7 @@
 
 ### 📌 About Me
 
-- 🧠 Passionate about **AI**, **Web Development**, and **DevOps**
+- 🧠 Passionate about **AI**, **Web Dev**, and **DevOps**
 - 🌱 Learning **LangChain**, **LLMs**, **DevOps** and **Backend Development**
 - 🛠️ I love building real-world projects using **FastAPI**, **Docker**, and **LLM frameworks**
 - 💬 Ask me about anything related to **LLMs**, **LangChain**, or **FastAPI**
