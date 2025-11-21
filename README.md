@@ -1,4 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kapil</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3500&pause=600&color=00D9FF&center=true&vCenter=true&width=900&lines=Hello,+I'm+Kapil;AI+Engineer+%7C+Full+Stack+Developer" />
+</p>
+
+
 <h3 align="center">
   <a href="https://github.com/yadavkapil23">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76A05&center=true&vCenter=true&width=450&lines=AI+%26+DevOps+Practitioner;Open+Source+Contributor;LLM+Tinkerer;Backend+Developer;Azure+Enthusiast" alt="Typing SVG" />
@@ -110,6 +114,17 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavkapil23&theme=merko&hide_border=true"/>
 </p>
+<!-- 📊 Profile Summary Card (Full Stats Panel) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yadavkapil23&theme=tokyonight" />
+
+<!-- 🔥 Commit Per Day & Hour Graph -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yadavkapil23&theme=tokyonight" />
+
+<!-- 🌐 Language (Used in Repos) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yadavkapil23&theme=tokyonight" />
+
+<!-- 🧩 Most Commit Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yadavkapil23&theme=tokyonight" />
 
 ---
 
