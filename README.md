@@ -117,14 +117,12 @@
 <!-- 📊 Profile Summary Card (Full Stats Panel) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yadavkapil23&theme=tokyonight" />
 
-<!-- 🔥 Commit Per Day & Hour Graph -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yadavkapil23&theme=tokyonight" />
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yadavkapil23&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yadavkapil23&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yadavkapil23&theme=tokyonight" />
 
-<!-- 🌐 Language (Used in Repos) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yadavkapil23&theme=tokyonight" />
-
-<!-- 🧩 Most Commit Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yadavkapil23&theme=tokyonight" />
+</div>
 
 ---
 
