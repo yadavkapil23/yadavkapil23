@@ -1,7 +1,28 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3500&pause=600&color=00D9FF&center=true&vCenter=true&width=900&lines=Hello,+I'm+Kapil;AI+Engineer+%7C+Full+Stack+Developer" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCEFA&width=700&center=true&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer+%7C+Aspiring+SDE;Open+Source+Contributor+%7C+Problem+Solver;AI+Enthusiast+%7C+Tech+Explorer+%7C+Lifelong+Learner" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="120" height="90" alt="Terminal Coding"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="120" height="90" alt="Keep Coding"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" height="90" alt="Clean Code"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120" height="90" alt="Code Typing"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/source.gif" width="120" height="90" alt="Coding Vibes"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" height="90" alt="Developer at Work"/>
+</p>
+<p align="center" style="background-color: #e0f7fa; padding: 20px; border-radius: 10px; font-style: italic; font-size: 20px; color: #004d40; border: 2px solid #00796b; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 600px; margin: auto;">
+  💭 <span style="color: #00796b;">"The only way to do great work is to love what you do...."</span> – <span style="color: #004d40;">Steve Jobs. 💭</span>
+</p>
 
 <h3 align="center">
   <a href="https://github.com/yadavkapil23">
