@@ -42,7 +42,7 @@
 - 🌱 Learning **LangChain**, **LLMs**, **DevOps** and **Backend Development**
 - 🛠️ I love building real-world projects using **FastAPI**, **Docker**, and **LLM frameworks**
 - 💬 Ask me about anything related to **LLMs**, **LangChain**, or **FastAPI**
-- 🧊 Fun Fact: I read changelogs like newsletters.
+- 🧊 Fun Fact: I read changelogs like newsletters
 
 ---
 
