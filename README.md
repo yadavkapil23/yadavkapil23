@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCEFA&width=700&center=true&vCenter=true />
 </p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="120" height="90" alt="Terminal Coding"/>
   &nbsp;&nbsp;&nbsp;
