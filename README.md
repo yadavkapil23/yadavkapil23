@@ -21,7 +21,6 @@
 <p align="center" style="background-color: #e0f7fa; padding: 20px; border-radius: 10px; font-style: italic; font-size: 20px; color: #004d40; border: 2px solid #00796b; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 600px; margin: auto;">
   💭 <span style="color: #00796b;">"The only way to do great work is to love what you do...."</span> – <span style="color: #004d40;">Steve Jobs. 💭</span>
 </p>
-
 <h3 align="center">
   <a href="https://github.com/yadavkapil23">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76A05&center=true&vCenter=true&width=450&lines=AI+%26+DevOps+Practitioner;Open+Source+Contributor;LLM+Tinkerer;Backend+Developer;Azure+Enthusiast" alt="Typing SVG" />
