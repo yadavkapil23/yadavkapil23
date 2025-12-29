@@ -16,7 +16,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/fhAwk4DnqNgw8/source.gif" width="120" height="90" alt="Coding Vibes"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" height="90" alt="Dev at Work"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="120" height="90" alt="Developer at Work"/>
 </p>
 <p align="center" style="background-color: #e0f7fa; padding: 20px; border-radius: 10px; font-style: italic; font-size: 20px; color: #004d40; border: 2px solid #00796b; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 600px; margin: auto;">
   💭 <span style="color: #00796b;">"The only way to do great work is to love what you do...."</span> – <span style="color: #004d40;">Steve Jobs. 💭</span>
