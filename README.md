@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3500&pause=600&color=00D9FF&center=true&vCenter=true&width=900&lines=Hello,+I'm+Kapil;AI+Engineer+%7C+Full+Stack+Developer" />
 </p>
