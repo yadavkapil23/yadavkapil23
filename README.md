@@ -100,6 +100,14 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yadavkapil23&theme=tokyonight&row=1&margin-w=10" />
+</p>
+
+---
+
 ### 🧰 Tech Stack Badges
 
 <p align="center">
