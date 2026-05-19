@@ -148,7 +148,6 @@
 
 </div>
 
----
 ### 🔗 Let's Connect
 
 <p align="left">
