@@ -137,10 +137,10 @@
 
 ## 📈 Contribution Graph
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yadavkapil23&theme=merko&hide_border=true"/>
 </p> -->
-<!-- 📊 Profile Summary Card (Full Stats Panel) -->
+<!-- 📊 Profile Summary Card (Full Stats Panel) 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yadavkapil23&theme=tokyonight" />
 
 <div style="display: flex; justify-content: center; gap: 10px;">
