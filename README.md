@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3500&pause=600&color=00D9FF&center=true&vCenter=true&width=900&lines=Hello,+I'm+Kapil;AI+Engineer+%7C+Full+Stack+Developer" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5BCEFA&width=700&center=true&vCenter=true />
 </p>
