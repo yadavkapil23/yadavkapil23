@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3500&pause=600&color=00D9FF&center=true&vCenter=true&width=900&lines=Hello,+I'm+Kapil;AI+Engineer+%7C+Full+Stack+Developer" />
 </p>
 
@@ -163,4 +163,4 @@
   <a href="https://github.com/yadavkapil23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
+</p> -->
